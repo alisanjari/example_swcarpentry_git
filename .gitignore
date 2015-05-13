@@ -1,6 +1,3 @@
-BatchQC
-BatchQC*.tar.gz
-PathoScope
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
